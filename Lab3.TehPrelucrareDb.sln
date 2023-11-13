@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3.TehPrelucrareDb", "Lab3.TehPrelucrareDb\Lab3.TehPrelucrareDb.csproj", "{FC68D428-CACA-4B14-983A-E6DBA2D629A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC68D428-CACA-4B14-983A-E6DBA2D629A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC68D428-CACA-4B14-983A-E6DBA2D629A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC68D428-CACA-4B14-983A-E6DBA2D629A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC68D428-CACA-4B14-983A-E6DBA2D629A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEC271C2-DB93-4398-8CBA-ADC2CC908DE6}
+	EndGlobalSection
+EndGlobal
